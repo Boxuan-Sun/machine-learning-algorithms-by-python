@@ -1,10 +1,3 @@
-"""
-@File    : KNN.py
-@Time    : 2019-10-22 12:27
-@Author  : Lee
-@Software: PyCharm
-@Email   : leehaoran@pku.edu.cn
-"""
 
 # mnist_train:60000
 # mnist_test:500
