@@ -1,11 +1,3 @@
-"""
-@File    : GBDT.py
-@Time    : 2019-12-20 14:09
-@Author  : Lee
-@Software: PyCharm
-@Email: leehaoran@pku.edu.cn
-"""
-
 import pandas as pd
 import numpy as np
 
