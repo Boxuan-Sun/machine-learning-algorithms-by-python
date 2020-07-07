@@ -1,10 +1,3 @@
-"""
-@File    : HMM.py
-@Time    : 2019-12-05 20:20
-@Author  : Lee
-@Software: PyCharm
-@Email: leehaoran@pku.edu.cn
-"""
 
 # 训练数据：人民日报1998语料库
 
