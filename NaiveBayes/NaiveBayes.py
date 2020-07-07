@@ -1,11 +1,3 @@
-"""
-@File    : NaiveBayes.py
-@Time    : 2019-10-22 16:24
-@Author  : Lee
-@Software: PyCharm
-@Email   : leehaoran@pku.edu.cn
-"""
-
 # mnist_train:60000
 # mnist_test:10000
 # acc: 0.8427
