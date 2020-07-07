@@ -1,10 +1,3 @@
-"""
-@File    : LogisticRegression.py
-@Time    : 2019-10-25 08:48
-@Author  : Lee
-@Software: PyCharm
-@Email   : leehaoran@pku.edu.cn
-"""
 
 
 # mnist_train:60000
