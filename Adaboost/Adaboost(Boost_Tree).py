@@ -1,11 +1,3 @@
-"""
-@File    : Adaboost(Boost_Tree).py
-@Time    : 2019-12-04 15:00
-@Author  : Lee
-@Software: PyCharm
-@Email: leehaoran@pku.edu.cn
-"""
-
 
 # mnist_train:60000
 # mnist_test:10000
