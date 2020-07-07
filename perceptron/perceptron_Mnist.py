@@ -1,10 +1,3 @@
-"""
-@File    : perceptron_Mnist.py
-@Time    : 2019-10-18 11:55
-@Author  : Lee
-@Software: PyCharm
-@Email   :leehaoran@pku.edu.cn
-"""
 
 import pandas as pd
 import numpy as np
