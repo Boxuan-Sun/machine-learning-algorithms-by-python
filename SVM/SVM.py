@@ -1,10 +1,3 @@
-"""
-@File    : SVM.py
-@Time    : 2019-12-02 19:57
-@Author  : Lee
-@Software: PyCharm
-@Email: leehaoran@pku.edu.cn
-"""
 
 # mnist_train:60000
 # mnist_test:500
